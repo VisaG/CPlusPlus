@@ -1,0 +1,9 @@
+Enter a String: Able was I, ere I saw Elba
+Able was I, ere I saw Elba is a palindrome.
+Enter a String: peanut butter
+peanut butter is not a palindrome.
+Enter a String: "DeSSerts" "-StreSSed"
+"DeSSerts" "-StreSSed" is a palindrome.
+Enter a String: It is a RaceCar
+It is a RaceCar is not a palindrome.
+Enter a String: quit

@@ -1,0 +1,359 @@
+Please select a recipe:
+   0. Banana Split Sarcasm Surprise
+   1. Moon Quake Shake
+   2. Lots O Cookies (Low Sodium)
+   3. CIS10B "Vita-Pak" Interesting Program Nutritional Supplement
+Enter choice (negative number to quit) >> 1
+How many servings of Moon Quake Shake? 1
+Moon Quake Shake
+1 servings
+
+2+2/3 oz Bacardi Amber
+2+2/3 oz Kahlua
+1+1/2 tsp lemon juice
+3+1/3 oz crushed ice.
+
+Blend thoroughly.
+Serve in a shot glass.
+
+Please select a recipe:
+   0. Banana Split Sarcasm Surprise
+   1. Moon Quake Shake
+   2. Lots O Cookies (Low Sodium)
+   3. CIS10B "Vita-Pak" Interesting Program Nutritional Supplement
+Enter choice (negative number to quit) >> 2
+How many servings of Lots O Cookies (Low Sodium)? 1
+Lots O Cookies (Low Sodium)
+1 servings
+
+1+3/5 qt milk
+1+9/35 qt flour
+1+21/25 oz chocolate chips
+1+1/4 oz vanilla
+1/7500 dram salt
+
+Bake.
+Eat.
+
+Please select a recipe:
+   0. Banana Split Sarcasm Surprise
+   1. Moon Quake Shake
+   2. Lots O Cookies (Low Sodium)
+   3. CIS10B "Vita-Pak" Interesting Program Nutritional Supplement
+Enter choice (negative number to quit) >> 2
+How many servings of Lots O Cookies (Low Sodium)? 2
+Lots O Cookies (Low Sodium)
+2 servings
+
+3+1/5 qt milk
+2+18/35 qt flour
+3+17/25 oz chocolate chips
+2+1/2 oz vanilla
+1/3750 dram salt
+
+Bake.
+Eat.
+
+Please select a recipe:
+   0. Banana Split Sarcasm Surprise
+   1. Moon Quake Shake
+   2. Lots O Cookies (Low Sodium)
+   3. CIS10B "Vita-Pak" Interesting Program Nutritional Supplement
+Enter choice (negative number to quit) >> 3
+How many servings of CIS10B "Vita-Pak" Interesting Program Nutritional Supplement? 2
+CIS10B "Vita-Pak" Interesting Program Nutritional Supplement
+2 servings
+
+1 qt Capt'n Crunch with Crunch Berries
+2 acre_ft Banana Split Sarcasm Surprise
+38+16/17 acre_ft of Jolt Cola (in handy I.V. packs)
+
+Attach I.V. to arm.  Eat BSSS.
+Sit in front of computer and throw crunch berries at lab assistants.
+Wait for office hours.
+
+Please select a recipe:
+   0. Banana Split Sarcasm Surprise
+   1. Moon Quake Shake
+   2. Lots O Cookies (Low Sodium)
+   3. CIS10B "Vita-Pak" Interesting Program Nutritional Supplement
+Enter choice (negative number to quit) >> 0
+How many servings of Banana Split Sarcasm Surprise? 11
+Banana Split Sarcasm Surprise
+11 servings
+
+5+1/2 bushel chocolate ice cream
+4+1/8 bushel butterscotch syrup
+2+1/16 bushel sliced bananas
+1+7/48 peck nuts
+1+3/4 barrel tofu bricks
+1+1/10 bushel whipped cream
+1+13/20 peck rainbow sprinkles
+2+3/4 qt maraschino cherries
+
+Place tofu in trough. Pile ice cream on tofu. Smother in syrup. 
+Garnish with other ingredients. Top with cherries and sprinkles.
+
+Please select a recipe:
+   0. Banana Split Sarcasm Surprise
+   1. Moon Quake Shake
+   2. Lots O Cookies (Low Sodium)
+   3. CIS10B "Vita-Pak" Interesting Program Nutritional Supplement
+Enter choice (negative number to quit) >> 1
+How many servings of Moon Quake Shake? 11
+Moon Quake Shake
+11 servings
+
+1+5/6 pint Bacardi Amber
+1+5/6 pint Kahlua
+2+3/4 oz lemon juice
+1+7/48 qt crushed ice.
+
+Blend thoroughly.
+Serve in a shot glass.
+
+Please select a recipe:
+   0. Banana Split Sarcasm Surprise
+   1. Moon Quake Shake
+   2. Lots O Cookies (Low Sodium)
+   3. CIS10B "Vita-Pak" Interesting Program Nutritional Supplement
+Enter choice (negative number to quit) >> 2
+How many servings of Lots O Cookies (Low Sodium)? 11
+Lots O Cookies (Low Sodium)
+11 servings
+
+2+1/5 peck milk
+1+51/70 peck flour
+1+53/200 pint chocolate chips
+1+23/32 cup vanilla
+11/7500 dram salt
+
+Bake.
+Eat.
+
+Please select a recipe:
+   0. Banana Split Sarcasm Surprise
+   1. Moon Quake Shake
+   2. Lots O Cookies (Low Sodium)
+   3. CIS10B "Vita-Pak" Interesting Program Nutritional Supplement
+Enter choice (negative number to quit) >> 3
+How many servings of CIS10B "Vita-Pak" Interesting Program Nutritional Supplement? 11
+CIS10B "Vita-Pak" Interesting Program Nutritional Supplement
+11 servings
+
+1+3/8 gal Capt'n Crunch with Crunch Berries
+11 acre_ft Banana Split Sarcasm Surprise
+214+3/17 acre_ft of Jolt Cola (in handy I.V. packs)
+
+Attach I.V. to arm.  Eat BSSS.
+Sit in front of computer and throw crunch berries at lab assistants.
+Wait for office hours.
+
+Please select a recipe:
+   0. Banana Split Sarcasm Surprise
+   1. Moon Quake Shake
+   2. Lots O Cookies (Low Sodium)
+   3. CIS10B "Vita-Pak" Interesting Program Nutritional Supplement
+Enter choice (negative number to quit) >> 0
+How many servings of Banana Split Sarcasm Surprise? 21+3/4
+Banana Split Sarcasm Surprise
+21+3/4 servings
+
+1+169/440 barrel chocolate ice cream
+1+67/1760 barrel butterscotch syrup
+4+5/64 bushel sliced bananas
+2+17/64 peck nuts
+3+81/176 barrel tofu bricks
+2+7/40 bushel whipped cream
+3+21/80 peck rainbow sprinkles
+1+23/64 gal maraschino cherries
+
+Place tofu in trough. Pile ice cream on tofu. Smother in syrup. 
+Garnish with other ingredients. Top with cherries and sprinkles.
+
+Please select a recipe:
+   0. Banana Split Sarcasm Surprise
+   1. Moon Quake Shake
+   2. Lots O Cookies (Low Sodium)
+   3. CIS10B "Vita-Pak" Interesting Program Nutritional Supplement
+Enter choice (negative number to quit) >> 1
+How many servings of Moon Quake Shake? 21+3/4
+Moon Quake Shake
+21+3/4 servings
+
+1+13/16 qt Bacardi Amber
+1+13/16 qt Kahlua
+5+7/16 oz lemon juice
+2+17/64 qt crushed ice.
+
+Blend thoroughly.
+Serve in a shot glass.
+
+Please select a recipe:
+   0. Banana Split Sarcasm Surprise
+   1. Moon Quake Shake
+   2. Lots O Cookies (Low Sodium)
+   3. CIS10B "Vita-Pak" Interesting Program Nutritional Supplement
+Enter choice (negative number to quit) >> 2
+How many servings of Lots O Cookies (Low Sodium)? 21+3/4
+Lots O Cookies (Low Sodium)
+21+3/4 servings
+
+1+7/80 bushel milk
+3+117/280 peck flour
+1+401/1600 qt chocolate chips
+1+179/256 pint vanilla
+29/10000 dram salt
+
+Bake.
+Eat.
+
+Please select a recipe:
+   0. Banana Split Sarcasm Surprise
+   1. Moon Quake Shake
+   2. Lots O Cookies (Low Sodium)
+   3. CIS10B "Vita-Pak" Interesting Program Nutritional Supplement
+Enter choice (negative number to quit) >> 3
+How many servings of CIS10B "Vita-Pak" Interesting Program Nutritional Supplement? 21+3/4
+CIS10B "Vita-Pak" Interesting Program Nutritional Supplement
+21+3/4 servings
+
+1+23/64 peck Capt'n Crunch with Crunch Berries
+21+3/4 acre_ft Banana Split Sarcasm Surprise
+423+33/68 acre_ft of Jolt Cola (in handy I.V. packs)
+
+Attach I.V. to arm.  Eat BSSS.
+Sit in front of computer and throw crunch berries at lab assistants.
+Wait for office hours.
+
+Please select a recipe:
+   0. Banana Split Sarcasm Surprise
+   1. Moon Quake Shake
+   2. Lots O Cookies (Low Sodium)
+   3. CIS10B "Vita-Pak" Interesting Program Nutritional Supplement
+Enter choice (negative number to quit) >> 0
+How many servings of Banana Split Sarcasm Surprise? 20000
+Banana Split Sarcasm Surprise
+20000 servings
+
+1272+8/11 barrel chocolate ice cream
+954+6/11 barrel butterscotch syrup
+477+3/11 barrel sliced bananas
+66+19/66 barrel nuts
+3181+9/11 barrel tofu bricks
+254+6/11 barrel whipped cream
+95+5/11 barrel rainbow sprinkles
+19+39/44 barrel maraschino cherries
+
+Place tofu in trough. Pile ice cream on tofu. Smother in syrup. 
+Garnish with other ingredients. Top with cherries and sprinkles.
+
+Please select a recipe:
+   0. Banana Split Sarcasm Surprise
+   1. Moon Quake Shake
+   2. Lots O Cookies (Low Sodium)
+   3. CIS10B "Vita-Pak" Interesting Program Nutritional Supplement
+Enter choice (negative number to quit) >> 1
+How many servings of Moon Quake Shake? 20000
+Moon Quake Shake
+20000 servings
+
+6+83/132 barrel Bacardi Amber
+6+83/132 barrel Kahlua
+4+113/128 bushel lemon juice
+8+151/528 barrel crushed ice.
+
+Blend thoroughly.
+Serve in a shot glass.
+
+Please select a recipe:
+   0. Banana Split Sarcasm Surprise
+   1. Moon Quake Shake
+   2. Lots O Cookies (Low Sodium)
+   3. CIS10B "Vita-Pak" Interesting Program Nutritional Supplement
+Enter choice (negative number to quit) >> 3 2
+How many servings of Lots O Cookies (Low Sodium)? 20000
+Lots O Cookies (Low Sodium)
+20000 servings
+
+127+3/11 barrel milk
+100 barrel flour
+4+101/176 barrel chocolate chips
+3+151/1408 barrel vanilla
+2 tsp salt
+
+Bake.
+Eat.
+
+Please select a recipe:
+   0. Banana Split Sarcasm Surprise
+   1. Moon Quake Shake
+   2. Lots O Cookies (Low Sodium)
+   3. CIS10B "Vita-Pak" Interesting Program Nutritional Supplement
+Enter choice (negative number to quit) >> 3
+How many servings of CIS10B "Vita-Pak" Interesting Program Nutritional Supplement? 20000
+CIS10B "Vita-Pak" Interesting Program Nutritional Supplement
+20000 servings
+
+39+17/22 barrel Capt'n Crunch with Crunch Berries
+20000 acre_ft Banana Split Sarcasm Surprise
+389411+13/17 acre_ft of Jolt Cola (in handy I.V. packs)
+
+Attach I.V. to arm.  Eat BSSS.
+Sit in front of computer and throw crunch berries at lab assistants.
+Wait for office hours.
+
+Please select a recipe:
+   0. Banana Split Sarcasm Surprise
+   1. Moon Quake Shake
+   2. Lots O Cookies (Low Sodium)
+   3. CIS10B "Vita-Pak" Interesting Program Nutritional Supplement
+Enter choice (negative number to quit) >> -1
+Banana Split Sarcasm Surprise
+1 servings
+
+2 peck chocolate ice cream
+1+1/2 peck butterscotch syrup
+1+1/2 gal sliced bananas
+1+2/3 pint nuts
+1+1/4 bushel tofu bricks
+3+1/5 qt whipped cream
+1+1/5 qt rainbow sprinkles
+1 cup maraschino cherries
+
+Place tofu in trough. Pile ice cream on tofu. Smother in syrup. 
+Garnish with other ingredients. Top with cherries and sprinkles.
+
+Moon Quake Shake
+6 servings
+
+1 pint Bacardi Amber
+1 pint Kahlua
+1+1/2 oz lemon juice
+1+1/4 pint crushed ice.
+
+Blend thoroughly.
+Serve in a shot glass.
+
+Lots O Cookies (Low Sodium)
+10000 servings
+
+63+7/11 barrel milk
+50 barrel flour
+2+101/352 barrel chocolate chips
+1+1559/2816 barrel vanilla
+1 tsp salt
+
+Bake.
+Eat.
+
+CIS10B "Vita-Pak" Interesting Program Nutritional Supplement
+1 servings
+
+1 pint Capt'n Crunch with Crunch Berries
+1 acre_ft Banana Split Sarcasm Surprise
+19+8/17 acre_ft of Jolt Cola (in handy I.V. packs)
+
+Attach I.V. to arm.  Eat BSSS.
+Sit in front of computer and throw crunch berries at lab assistants.
+Wait for office hours.

@@ -1,0 +1,2 @@
+Before reverse = C++ is fun
+After reverse = nuf si ++

@@ -1,0 +1,459 @@
+/*
+ The file is Output.txt for program FHhashQPwFind.cpp
+
+ Created on: Nov 11th, 2013, Author: Visalakshi Gopalakrishnan
+ Class: CS 2C, Instructor name: Dave Harden.
+ Assignment 6.1
+
+ */
+
+-------------------------------------------------------------------------------------------------
+OUTPUT OF FIND BY BOOK ID
+-------------------------------------------------------------------------------------------------
+
+catalog-short4.txt
+4863
+size 4863
+   # 0  ---------------
+   ""
+   by 
+   re: 
+
+   # 0  ---------------
+   ""
+   by 
+   re: 
+
+   # 0  ---------------
+   ""
+   by 
+   re: 
+
+   # 0  ---------------
+   ""
+   by 
+   re: 
+
+   # 0  ---------------
+   ""
+   by 
+   re: 
+
+   # 0  ---------------
+   ""
+   by 
+   re: 
+
+   # 0  ---------------
+   ""
+   by 
+   re: 
+
+   # 0  ---------------
+   ""
+   by 
+   re: 
+
+   # 0  ---------------
+   ""
+   by 
+   re: 
+
+   # 0  ---------------
+   ""
+   by 
+   re: 
+
+   # 0  ---------------
+   ""
+   by 
+   re: 
+
+   # 0  ---------------
+   ""
+   by 
+   re: 
+
+   # 0  ---------------
+   ""
+   by 
+   re: 
+
+   # 0  ---------------
+   ""
+   by 
+   re: 
+
+   # 6999  ---------------
+   "How to Live a Holy Life"
+   by Orr, Charles Ebert, 1861-1933
+   re: Christian life
+
+   # 25165  ---------------
+   "The Candy Country"
+   by Alcott, Louisa May, 1832-1888
+   re: Fantasy
+
+   # 26276  ---------------
+   "History of Company E of the Sixth Minnesota Regiment of Volunteer Infantry"
+   by Stees, Charles J.
+   re: United States -- History -- Civil War, 1861-1865 -- Regimental histories
+
+   # 26300  ---------------
+   "Peter the Great"
+   by Abbott, Jacob, 1803-1879
+   re: Peter I, Emperor of Russia, 1672-1725
+
+   # 26645  ---------------
+   "Two Daring Young Patriotsor, Outwitting the Huns"
+   by Shervill, W. P.
+   re: World War, 1914-1918 -- Belgium -- Juvenile fiction
+
+   # 27456  ---------------
+   "Nezumi no yomeiri. English"
+   by Unknown
+   re: Weddings -- Juvenile fiction
+
+   # 28134  ---------------
+   "The Nursery, June 1877, Vol. XXI. No. 6A Monthly Magazine for Youngest Readers"
+   by Various
+   re: Children's literature, American -- Periodicals
+
+   # 28141  ---------------
+   "The Nursery, February 1878, Vol. XXIII, No. 2A Monthly Magazine for Youngest Readers"
+   by Various
+   re: Children's literature, American -- Periodicals
+
+   # 28774  ---------------
+   "Finnish Artsor Sir Thor and Damsel Thure, a Ballad"
+   by (no data found)
+   re: PR
+
+   # 29664  ---------------
+   "Notes and Queries, Number 218, December 31, 1853A Medium of Inter-communication for Literary Men, Artists,Antiquaries, Genealogists, etc"
+   by Various
+   re: Questions and answers -- Periodicals
+
+   # 29710  ---------------
+   "Ireland as It IsAnd as It Would be Under Home Rule"
+   by Buckley, Robert John
+   re: Home rule -- Ireland
+
+End of display 
+
+Not Found.  
+Not Found.  
+   # 28134  ---------------
+   "The Nursery, June 1877, Vol. XXI. No. 6A Monthly Magazine for Youngest Readers"
+   by Various
+   re: Children's literature, American -- Periodicals
+
+
+   # 28774  ---------------
+   "Finnish Artsor Sir Thor and Damsel Thure, a Ballad"
+   by (no data found)
+   re: PR
+
+
+Not Found.  
+Not Found.  
+   # 6999  ---------------
+   "How to Live a Holy Life"
+   by Orr, Charles Ebert, 1861-1933
+   re: Christian life
+
+
+   # 28141  ---------------
+   "The Nursery, February 1878, Vol. XXIII, No. 2A Monthly Magazine for Youngest Readers"
+   by Various
+   re: Children's literature, American -- Periodicals
+
+
+   # 26300  ---------------
+   "Peter the Great"
+   by Abbott, Jacob, 1803-1879
+   re: Peter I, Emperor of Russia, 1672-1725
+
+
+   # 26645  ---------------
+   "Two Daring Young Patriotsor, Outwitting the Huns"
+   by Shervill, W. P.
+   re: World War, 1914-1918 -- Belgium -- Juvenile fiction
+
+
+   # 29664  ---------------
+   "Notes and Queries, Number 218, December 31, 1853A Medium of Inter-communication for Literary Men, Artists,Antiquaries, Genealogists, etc"
+   by Various
+   re: Questions and answers -- Periodicals
+
+
+Not Found.  
+   # 26276  ---------------
+   "History of Company E of the Sixth Minnesota Regiment of Volunteer Infantry"
+   by Stees, Charles J.
+   re: United States -- History -- Civil War, 1861-1865 -- Regimental histories
+
+
+Not Found.  
+   # 29710  ---------------
+   "Ireland as It IsAnd as It Would be Under Home Rule"
+   by Buckley, Robert John
+   re: Home rule -- Ireland
+
+
+Not Found.  
+Not Found.  
+Not Found.  
+Not Found.  
+Not Found.  
+Not Found.  
+   # 27456  ---------------
+   "Nezumi no yomeiri. English"
+   by Unknown
+   re: Weddings -- Juvenile fiction
+
+
+Not Found.  
+   # 25165  ---------------
+   "The Candy Country"
+   by Alcott, Louisa May, 1832-1888
+   re: Fantasy
+
+
+Not Found.  
+Not Found.  
+Not Found.  
+Not Found.  
+
+-------------------------------------------------------------------------------------------------
+OUTPUT OF FIND BY CREATOR
+-------------------------------------------------------------------------------------------------
+
+catalog-short4.txt
+4863
+size 2724
+   # 0  ---------------
+   ""
+   by 
+   re: 
+
+   # 0  ---------------
+   ""
+   by 
+   re: 
+
+   # 0  ---------------
+   ""
+   by 
+   re: 
+
+   # 0  ---------------
+   ""
+   by 
+   re: 
+
+   # 0  ---------------
+   ""
+   by 
+   re: 
+
+   # 0  ---------------
+   ""
+   by 
+   re: 
+
+   # 0  ---------------
+   ""
+   by 
+   re: 
+
+   # 0  ---------------
+   ""
+   by 
+   re: 
+
+   # 0  ---------------
+   ""
+   by 
+   re: 
+
+   # 0  ---------------
+   ""
+   by 
+   re: 
+
+   # 0  ---------------
+   ""
+   by 
+   re: 
+
+   # 265  ---------------
+   "Kormáks saga. English"
+   by (no data found)
+   re: Kormákr Ögmundarson, ca. 935-970 -- Romances
+
+   # 27515  ---------------
+   "State Trials, Political and SocialVolume 1 (of 2)"
+   by (no data found)
+   re: Trials -- Great Britain
+
+   # 25772  ---------------
+   "Little Lost Sister"
+   by Brooks, Virginia, 1886-
+   re: Chicago (Ill.) -- Fiction
+
+   # 27338  ---------------
+   "Baseball Joe Around the WorldPitching on a Grand Tour"
+   by Chadwick, Lester
+   re: Baseball -- Juvenile fiction
+
+   # 5317  ---------------
+   "Through the Magic Door"
+   by Doyle, Arthur Conan, Sir, 1859-1930
+   re: PR
+
+   # 1832  ---------------
+   "The Case of the Lamp That Went Out"
+   by Groner, Auguste, 1850-1929
+   re: Fiction
+
+   # 29333  ---------------
+   "War Letters of a Public-School Boy"
+   by Jones, Henry Paul Mainwaring, 1896-1917
+   re: World War, 1914-1918 -- Personal narratives, British
+
+   # 28890  ---------------
+   "Helps to Latin Translation at Sight"
+   by Luce, Edmund
+   re: Latin language -- Readers
+
+   # 25804  ---------------
+   "The Children's Book of London"
+   by Mitton, G. E. (Geraldine Edith)
+   re: London (England) -- Description and travel -- Juvenile literature
+
+   # 26716  ---------------
+   "The Crown of Wild Olivealso Munera Pulveris; Pre-Raphaelitism; Aratra Pentelici; The Ethics of the Dust; Fiction, Fair and Foul; The Elements of Drawing"
+   by Ruskin, John, 1819-1900
+   re: Conduct of life
+
+   # 13067  ---------------
+   "Punch, or the London Charivari, Volume 100, January 31, 1891"
+   by Various
+   re: English wit and humor -- Periodicals
+
+   # 24885  ---------------
+   "The Atlantic Monthly, Volume 14, No. 85, November, 1864"
+   by Various
+   re: AP
+
+   # 26985  ---------------
+   "Killykinick"
+   by Waggaman, Mary T. (Mary Theresa), 1846-1931
+   re: PS
+
+   # 25738  ---------------
+   "TimelineA Terran Empire timeline"
+   by Wilson, Ann
+   re: Reference
+
+End of display 
+
+Not Found.  
+   # 25744  ---------------
+   "TeamsA Terran Empire story"
+   by Wilson, Ann
+   re: Science fiction
+
+
+   # 29333  ---------------
+   "War Letters of a Public-School Boy"
+   by Jones, Henry Paul Mainwaring, 1896-1917
+   re: World War, 1914-1918 -- Personal narratives, British
+
+
+Not Found.  
+   # 25772  ---------------
+   "Little Lost Sister"
+   by Brooks, Virginia, 1886-
+   re: Chicago (Ill.) -- Fiction
+
+
+   # 28712  ---------------
+   "The American Missionary — Volume 54, No. 3, October, 1900"
+   by Various
+   re: Congregational churches -- Missions -- Periodicals
+
+
+Not Found.  
+Not Found.  
+   # 28890  ---------------
+   "Helps to Latin Translation at Sight"
+   by Luce, Edmund
+   re: Latin language -- Readers
+
+
+   # 26985  ---------------
+   "Killykinick"
+   by Waggaman, Mary T. (Mary Theresa), 1846-1931
+   re: PS
+
+
+   # 28853  ---------------
+   "The Children's Book of Stars"
+   by Mitton, G. E. (Geraldine Edith)
+   re: Astronomy -- Juvenile literature
+
+
+Not Found.  
+Not Found.  
+   # 28712  ---------------
+   "The American Missionary — Volume 54, No. 3, October, 1900"
+   by Various
+   re: Congregational churches -- Missions -- Periodicals
+
+
+   # 1832  ---------------
+   "The Case of the Lamp That Went Out"
+   by Groner, Auguste, 1850-1929
+   re: Fiction
+
+
+Not Found.  
+   # 28351  ---------------
+   "Dick and His Cat and Other Tales"
+   by (no data found)
+   re: Animals -- Juvenile fiction
+
+
+Not Found.  
+   # 27584  ---------------
+   "Baseball Joe in the Big Leagueor, A Young Pitcher's Hardest Struggles"
+   by Chadwick, Lester
+   re: Baseball -- Juvenile fiction
+
+
+Not Found.  
+   # 19980  ---------------
+   "A Joy For Ever(And Its Price in the Market)"
+   by Ruskin, John, 1819-1900
+   re: Art
+
+
+   # 28733  ---------------
+   "The Adventures of Sherlock Holmes"
+   by Doyle, Arthur Conan, Sir, 1859-1930
+   re: Holmes, Sherlock (Fictitious character) -- Fiction
+
+
+Not Found.  
+   # 28351  ---------------
+   "Dick and His Cat and Other Tales"
+   by (no data found)
+   re: Animals -- Juvenile fiction
+
+
+Not Found.  
+Not Found.  
+Not Found.  
+Not Found. 

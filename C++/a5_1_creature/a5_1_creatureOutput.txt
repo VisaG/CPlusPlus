@@ -1,0 +1,150 @@
+default human strength/hitpoints: 10/10
+default elf strength/hitpoints: 10/10
+default cyberdemon strength/hitpoints: 10/10
+default balrog strength/hitpoints: 10/10
+non-default human strength/hitpoints: 20/30
+non-default elf strength/hitpoints: 40/50
+non-default cyberdemon strength/hitpoints: 60/70
+non-default balrog strength/hitpoints: 80/90
+
+
+Examples of human damage: 
+The Human attacks for 16 points!
+ Total damage = 16
+
+The Human attacks for 18 points!
+ Total damage = 18
+
+The Human attacks for 14 points!
+ Total damage = 14
+
+The Human attacks for 16 points!
+ Total damage = 16
+
+The Human attacks for 2 points!
+ Total damage = 2
+
+The Human attacks for 2 points!
+ Total damage = 2
+
+The Human attacks for 13 points!
+ Total damage = 13
+
+The Human attacks for 14 points!
+ Total damage = 14
+
+The Human attacks for 1 points!
+ Total damage = 1
+
+The Human attacks for 10 points!
+ Total damage = 10
+
+
+Examples of elf damage: 
+The Elf attacks for 25 points!
+ Total damage = 25
+
+The Elf attacks for 14 points!
+Magical attack inflicts 14 additional damage points!
+ Total damage = 28
+
+The Elf attacks for 15 points!
+ Total damage = 15
+
+The Elf attacks for 16 points!
+ Total damage = 16
+
+The Elf attacks for 12 points!
+ Total damage = 12
+
+The Elf attacks for 11 points!
+ Total damage = 11
+
+The Elf attacks for 39 points!
+ Total damage = 39
+
+The Elf attacks for 6 points!
+ Total damage = 6
+
+The Elf attacks for 14 points!
+ Total damage = 14
+
+The Elf attacks for 23 points!
+ Total damage = 23
+
+
+Examples of cyberdemon damage: 
+The cyberdemon  attacks for 1 points!
+ Total damage = 1
+
+The cyberdemon  attacks for 3 points!
+ Total damage = 3
+
+The cyberdemon  attacks for 58 points!
+ Total damage = 58
+
+The cyberdemon  attacks for 8 points!
+Demonic attack inflicts 50 additional damage points!
+ Total damage = 58
+
+The cyberdemon  attacks for 9 points!
+ Total damage = 9
+
+The cyberdemon  attacks for 20 points!
+ Total damage = 20
+
+The cyberdemon  attacks for 26 points!
+ Total damage = 26
+
+The cyberdemon  attacks for 55 points!
+ Total damage = 55
+
+The cyberdemon  attacks for 23 points!
+Demonic attack inflicts 50 additional damage points!
+ Total damage = 73
+
+The cyberdemon  attacks for 48 points!
+ Total damage = 48
+
+
+Examples of balrog damage: 
+The balrog  attacks for 66 points!
+Balrog speed attack inflicts 65 additional damage points!
+ Total damage = 131
+
+The balrog  attacks for 24 points!
+Balrog speed attack inflicts 70 additional damage points!
+ Total damage = 94
+
+The balrog  attacks for 48 points!
+Balrog speed attack inflicts 80 additional damage points!
+ Total damage = 128
+
+The balrog  attacks for 62 points!
+Balrog speed attack inflicts 80 additional damage points!
+ Total damage = 142
+
+The balrog  attacks for 24 points!
+Balrog speed attack inflicts 45 additional damage points!
+ Total damage = 69
+
+The balrog  attacks for 34 points!
+Balrog speed attack inflicts 52 additional damage points!
+ Total damage = 86
+
+The balrog  attacks for 44 points!
+Demonic attack inflicts 50 additional damage points!
+Balrog speed attack inflicts 11 additional damage points!
+ Total damage = 105
+
+The balrog  attacks for 55 points!
+Balrog speed attack inflicts 49 additional damage points!
+ Total damage = 104
+
+The balrog  attacks for 31 points!
+Balrog speed attack inflicts 61 additional damage points!
+ Total damage = 92
+
+The balrog  attacks for 13 points!
+Balrog speed attack inflicts 40 additional damage points!
+ Total damage = 53

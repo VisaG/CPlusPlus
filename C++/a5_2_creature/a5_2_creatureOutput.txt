@@ -1,0 +1,289 @@
+default human strength/hitpoints: 10/10
+default elf strength/hitpoints: 10/10
+default cyberdemon strength/hitpoints: 10/10
+default balrog strength/hitpoints: 10/10
+non-default human strength/hitpoints: 20/30
+non-default elf strength/hitpoints: 40/50
+non-default cyberdemon strength/hitpoints: 60/70
+non-default balrog strength/hitpoints: 80/90
+
+
+Examples of human damage: 
+The human attacks for 2 points!
+ Total damage = 2
+
+The human attacks for 2 points!
+ Total damage = 2
+
+The human attacks for 10 points!
+ Total damage = 10
+
+The human attacks for 10 points!
+ Total damage = 10
+
+The human attacks for 11 points!
+ Total damage = 11
+
+The human attacks for 12 points!
+ Total damage = 12
+
+The human attacks for 2 points!
+ Total damage = 2
+
+The human attacks for 7 points!
+ Total damage = 7
+
+The human attacks for 12 points!
+ Total damage = 12
+
+The human attacks for 1 points!
+ Total damage = 1
+
+
+Examples of elf damage: 
+The elf attacks for 8 points!
+ Total damage = 8
+
+The elf attacks for 22 points!
+ Total damage = 22
+
+The elf attacks for 8 points!
+ Total damage = 8
+
+The elf attacks for 16 points!
+ Total damage = 16
+
+The elf attacks for 6 points!
+ Total damage = 6
+
+The elf attacks for 40 points!
+ Total damage = 40
+
+The elf attacks for 17 points!
+ Total damage = 17
+
+The elf attacks for 3 points!
+ Total damage = 3
+
+The elf attacks for 10 points!
+ Total damage = 10
+
+The elf attacks for 36 points!
+ Total damage = 36
+
+
+Examples of cyberdemon damage: 
+The cyberdemon attacks for 35 points!
+ Total damage = 35
+
+The cyberdemon attacks for 14 points!
+ Total damage = 14
+
+The cyberdemon attacks for 58 points!
+ Total damage = 58
+
+The cyberdemon attacks for 55 points!
+ Total damage = 55
+
+The cyberdemon attacks for 55 points!
+ Total damage = 55
+
+The cyberdemon attacks for 12 points!
+ Total damage = 12
+
+The cyberdemon attacks for 26 points!
+ Total damage = 26
+
+The cyberdemon attacks for 16 points!
+ Total damage = 16
+
+The cyberdemon attacks for 33 points!
+ Total damage = 33
+
+The cyberdemon attacks for 25 points!
+ Total damage = 25
+
+
+Examples of balrog damage: 
+The balrog attacks for 25 points!
+Balrog speed attack inflicts 29 additional damage points!
+ Total damage = 54
+
+The balrog attacks for 74 points!
+Balrog speed attack inflicts 31 additional damage points!
+ Total damage = 105
+
+The balrog attacks for 72 points!
+Demonic attack inflicts 50 additional damage points!
+Balrog speed attack inflicts 29 additional damage points!
+ Total damage = 151
+
+The balrog attacks for 19 points!
+Balrog speed attack inflicts 43 additional damage points!
+ Total damage = 62
+
+The balrog attacks for 27 points!
+Balrog speed attack inflicts 46 additional damage points!
+ Total damage = 73
+
+The balrog attacks for 77 points!
+Balrog speed attack inflicts 13 additional damage points!
+ Total damage = 90
+
+The balrog attacks for 55 points!
+Balrog speed attack inflicts 71 additional damage points!
+ Total damage = 126
+
+The balrog attacks for 66 points!
+Balrog speed attack inflicts 68 additional damage points!
+ Total damage = 134
+
+The balrog attacks for 3 points!
+Balrog speed attack inflicts 72 additional damage points!
+ Total damage = 75
+
+The balrog attacks for 35 points!
+Balrog speed attack inflicts 16 additional damage points!
+ Total damage = 51
+
+
+Battle Arena starts between elf and balrog
+
+The elf attacks for 15 points!
+The balrog attacks for 39 points!
+Balrog speed attack inflicts 35 additional damage points!
+
+Damage inflicted by elf 15
+Damage inflicted by balrog 74
+
+Hit points by elf 50
+Hit points by balrog 50
+
+Resulting hitpoints after battle [round 1] on elf is: -24
+Resulting hitpoints after battle [round 1] on balrog is: 35
+
+balrog won the battle 
+
+Battle Arena starts between elf and human
+
+The elf attacks for 15 points!
+The human attacks for 13 points!
+
+Damage inflicted by elf 15
+Damage inflicted by human 13
+
+Hit points by elf 100
+Hit points by human 120
+
+Resulting hitpoints after battle [round 1] on elf is: 87
+Resulting hitpoints after battle [round 1] on human is: 105
+
+The elf attacks for 30 points!
+The human attacks for 8 points!
+
+Damage inflicted by elf 30
+Damage inflicted by human 8
+
+Hit points by elf 87
+Hit points by human 105
+
+Resulting hitpoints after battle [round 2] on elf is: 79
+Resulting hitpoints after battle [round 2] on human is: 75
+
+The elf attacks for 39 points!
+The human attacks for 7 points!
+
+Damage inflicted by elf 39
+Damage inflicted by human 7
+
+Hit points by elf 79
+Hit points by human 75
+
+Resulting hitpoints after battle [round 3] on elf is: 72
+Resulting hitpoints after battle [round 3] on human is: 36
+
+The elf attacks for 32 points!
+The human attacks for 3 points!
+
+Damage inflicted by elf 32
+Damage inflicted by human 3
+
+Hit points by elf 72
+Hit points by human 36
+
+Resulting hitpoints after battle [round 4] on elf is: 69
+Resulting hitpoints after battle [round 4] on human is: 4
+
+The elf attacks for 21 points!
+The human attacks for 12 points!
+
+Damage inflicted by elf 21
+Damage inflicted by human 12
+
+Hit points by elf 69
+Hit points by human 4
+
+Resulting hitpoints after battle [round 5] on elf is: 57
+Resulting hitpoints after battle [round 5] on human is: -17
+
+elf won the battle 
+
+Battle Arena starts between cyberdemon and elf
+
+The cyberdemon attacks for 4 points!
+The elf attacks for 5 points!
+
+Damage inflicted by cyberdemon 4
+Damage inflicted by elf 5
+
+Hit points by cyberdemon 65
+Hit points by elf 57
+
+Resulting hitpoints after battle [round 1] on cyberdemon is: 60
+Resulting hitpoints after battle [round 1] on elf is: 53
+
+The cyberdemon attacks for 19 points!
+The elf attacks for 33 points!
+
+Damage inflicted by cyberdemon 19
+Damage inflicted by elf 33
+
+Hit points by cyberdemon 60
+Hit points by elf 53
+
+Resulting hitpoints after battle [round 2] on cyberdemon is: 27
+Resulting hitpoints after battle [round 2] on elf is: 34
+
+The cyberdemon attacks for 13 points!
+Demonic attack inflicts 50 additional damage points!
+The elf attacks for 16 points!
+
+Damage inflicted by cyberdemon 63
+Damage inflicted by elf 16
+
+Hit points by cyberdemon 27
+Hit points by elf 34
+
+Resulting hitpoints after battle [round 3] on cyberdemon is: 11
+Resulting hitpoints after battle [round 3] on elf is: -29
+
+cyberdemon won the battle 
+
+Battle Arena starts between balrog and cyberdemon
+
+The balrog attacks for 40 points!
+Demonic attack inflicts 50 additional damage points!
+Balrog speed attack inflicts 23 additional damage points!
+The cyberdemon attacks for 1 points!
+Demonic attack inflicts 50 additional damage points!
+
+Damage inflicted by balrog 113
+Damage inflicted by cyberdemon 51
+
+Hit points by balrog 35
+Hit points by cyberdemon 11
+
+Resulting hitpoints after battle [round 1] on balrog is: -16
+Resulting hitpoints after battle [round 1] on cyberdemon is: -102
+
+Its a tie a between balrog and cyberdemon
